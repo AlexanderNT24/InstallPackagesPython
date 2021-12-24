@@ -1,0 +1,11 @@
+{
+    "proyect": [
+        {
+            "name": "D:\\InstallPackagesPython",
+            "dependencies": [
+                "opencv",
+                "mediapipe"
+            ]
+        }
+    ]
+}
